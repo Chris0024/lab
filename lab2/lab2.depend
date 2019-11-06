@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573024771 source:d:\almacenamiento\ucsplab\base de datos\lab2\main.cpp
+	<iostream>
+	"Empleado.h"
+
+1573024719 source:d:\almacenamiento\ucsplab\base de datos\lab2\src\empleado.cpp
+	"Empleado.h"
+	<string>
+
+1573024492 d:\almacenamiento\ucsplab\base de datos\lab2\include\empleado.h
+	<string>
+
