@@ -14,8 +14,12 @@ int main()
     cout <<marcos.getnombre()<<" "<<marcos.getapellido()<<endl;
 */
     Curso calculo("calculo","137",promocion,2);
+    Curso prog("program","245",promocion,2);
 
+    Curso comu = calculo;
     cout <<calculo.getnombre()<<" "<<calculo.getcodigo()<<" "<<calculo.getalumno()<<endl;
+    //cout << comu.getnombre()<<endl;
+
 
     return 0;
 }

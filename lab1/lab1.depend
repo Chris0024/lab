@@ -17,3 +17,21 @@
 1572946961 d:\almacenamiento\ucsplab\base de datos\lab1\include\curso.h
 	"Estudiante.h"
 
+1572944466 source:d:\almacenamiento\ucsplab\base de datos\temporal\lab1\src\estudiante.cpp
+	"Estudiante.h"
+
+1572944369 d:\almacenamiento\ucsplab\base de datos\temporal\lab1\include\estudiante.h
+	<string>
+
+1573021145 source:d:\almacenamiento\ucsplab\base de datos\temporal\lab1\src\curso.cpp
+	"Curso.h"
+
+1573021322 d:\almacenamiento\ucsplab\base de datos\temporal\lab1\include\curso.h
+	"Estudiante.h"
+
+1573020860 source:d:\almacenamiento\ucsplab\base de datos\temporal\lab1\main.cpp
+	<iostream>
+	<string>
+	"Estudiante.h"
+	"Curso.h"
+

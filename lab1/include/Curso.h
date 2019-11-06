@@ -7,10 +7,12 @@ class Curso
     public:
         Curso();
         Curso(string ,string ,Estudiante*, int);
+        Curso(const Curso&);
+        ~Curso();
 
         string getnombre();
         string getcodigo();
-        int getcantidadAlumnos();
+        unsigned int getcantidadAlumnos();
         Estudiante* getalumno();
 
         void setnombre(string);
@@ -19,12 +21,11 @@ class Curso
         void setArrayEstudiantes(Estudiante[]);
 
 
-
     private:
         string nombre;
         string codigo;
         Estudiante *alumnos;
-        int cantidadAlumnos;
+        unsigned int cantidadAlumnos;
 };
 
 #endif // CURSO_H
